@@ -1,0 +1,13 @@
+@use 'common-styles/reset';
+@use 'common-styles/typography';
+
+.container{
+  width: 100%;
+  padding: 24px;
+}
+
+.button{
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
